@@ -1,0 +1,22 @@
+body {
+  color: redblack;
+  margin: 100px 400px;
+}
+
+
+#alert {
+  position: absolute;
+  display: none;
+  background-color: green;
+  color: white;
+  padding: 15px;
+  margin: 270px 300px 300px 300px;
+  text-align: center;
+}
+
+.alert-title {
+  font-size: 24px;
+  font-weight: bold;
+  font-style: oblique;
+}
+
